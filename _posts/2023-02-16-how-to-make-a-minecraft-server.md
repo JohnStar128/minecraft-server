@@ -4,6 +4,10 @@ permalink: /minecraft-server/
 ---
 
 ## THIS TUTORIAL IS FOR **JAVA EDITION** ONLY!!!
+
+---
+
+# Downloading the server
       
 First you need your server .jar file. This can be aquired from `minecraft.net` or the Minecraft Launcher.
 
@@ -19,6 +23,10 @@ Inside this menu you will see a button to the right of the profile labeled `SERV
 
 Make a new folder on your desktop and save this .jar file to it. I would heavily recommend renaming it to quite literally anything other than `server.jar`, maybe like `minecraft-1.19.3-server.jar` or whatever. Up to you.
 
+---
+
+# Setting up the server
+
 Anyway, now you have your server jar file, you just need to make a script to run it. Go to the folder with the jar and make a new text file and call it `start.bat` (or `start.sh` if you're on Linux).
 
 ![folder1](https://i.imgur.com/eTMuT1S.png)
@@ -32,6 +40,8 @@ Open up the script in a text editor (Notepad, VSCode, Vim, etc) and throw this i
 ![text1](https://i.imgur.com/JmCsVpi.png)
 
 Now we are going to run this script. If I'm not mistaken, double-clicking it on Windows will run it. If not, you can open a CMD Prompt and navigate to the folder and run it that way.
+
+**NOTE:** This step will fail if you don't have Java configured properly. There's [Quite a few guides out there on how to do this](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/), but I don't really know how to help there personally.
 
 The first time you run the script, some stuff will happen. If you get a CMD window and it stays open, you will see this text inside of it.
 ![text2](https://i.imgur.com/nLx0R5C.png)
@@ -61,6 +71,10 @@ All that is finally out of the way, we can connect to our server!
 Run that start script again and we should see some new useful information about the server starting up and generating a world.
 
 ![text4](https://i.imgur.com/gywcYbk.png)
+
+---
+
+# Connecting to the server
 
 Finally, we can launch Minecraft and go to the Multiplayer menu. Hit `Add Server` and we can enter the connection info.
 
