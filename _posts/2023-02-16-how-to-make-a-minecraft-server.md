@@ -13,7 +13,7 @@ First you need your server .jar file. This can be aquired from `minecraft.net` o
 
 Open the vanilla launcher and select the `Installations` tab
 
-![launcher1](https://i.imgur.com/whQgrM2.png)
+![launcher1](https://i.imgur.com/NNkxvAC.png)
 
 Assuming you want to download the latest version, select the profile called `Latest Release`, click the menu button to the right and select `Edit`.
 ![launcher2](https://i.imgur.com/X2iMbRo.png)
