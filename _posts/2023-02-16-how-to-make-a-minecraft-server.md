@@ -102,4 +102,4 @@ I personally have no idea how to do this but there are [Many guides out there on
 
 But after all that, you should now be able to play on your new Minecraft server!
 
-![yay](/yay.gif)
+![yay](/minecraft-server/yay.gif)
